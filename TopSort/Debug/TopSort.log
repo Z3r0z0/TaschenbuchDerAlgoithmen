@@ -1,2 +1,8 @@
-﻿  TopSort.cpp
+﻿  Node.cpp
+  TopSort.cpp
+C:\Users\lwnmut1\source\repos\TaschenbuchDerAlgoithmen\TopSort\TopSort.cpp(48,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lwnmut1\source\repos\TaschenbuchDerAlgoithmen\TopSort\TopSort.cpp(50,8): warning C4804: '>': unsafe use of type 'bool' in operation
+C:\Users\lwnmut1\source\repos\TaschenbuchDerAlgoithmen\TopSort\TopSort.cpp(71,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lwnmut1\source\repos\TaschenbuchDerAlgoithmen\TopSort\TopSort.cpp(73,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
   TopSort.vcxproj -> C:\Users\lwnmut1\source\repos\TaschenbuchDerAlgoithmen\Debug\TopSort.exe
