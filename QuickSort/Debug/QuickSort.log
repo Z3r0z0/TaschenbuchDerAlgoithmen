@@ -1,0 +1,4 @@
+﻿  QuickSort.cpp
+C:\Users\lwnmut1\source\repos\TaschenbuchDerAlgoithmen\QuickSort\QuickSort.cpp(24,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lwnmut1\source\repos\TaschenbuchDerAlgoithmen\QuickSort\QuickSort.cpp(76): warning C4715: 'quicksort': not all control paths return a value
+  QuickSort.vcxproj -> C:\Users\lwnmut1\source\repos\TaschenbuchDerAlgoithmen\Debug\QuickSort.exe

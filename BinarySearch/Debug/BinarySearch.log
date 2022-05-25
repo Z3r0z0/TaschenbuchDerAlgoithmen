@@ -1,0 +1,3 @@
+﻿  BinarySearch.cpp
+C:\Users\lwnmut1\source\repos\TaschenbuchDerAlgoithmen\BinarySearch\BinarySearch.cpp(49): warning C4715: 'binarySearch': not all control paths return a value
+  BinarySearch.vcxproj -> C:\Users\lwnmut1\source\repos\TaschenbuchDerAlgoithmen\Debug\BinarySearch.exe

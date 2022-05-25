@@ -1,0 +1,3 @@
+﻿  MergeSort.cpp
+C:\Users\lwnmut1\source\repos\TaschenbuchDerAlgoithmen\MergeSort\MergeSort.cpp(27,21): warning C4018: '<': signed/unsigned mismatch
+  MergeSort.vcxproj -> C:\Users\lwnmut1\source\repos\TaschenbuchDerAlgoithmen\Debug\MergeSort.exe
