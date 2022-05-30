@@ -28,7 +28,7 @@ void searchWord(string text, string word)
 
 			if (j == (word.size() - 1)) 
 			{
-				cout << word << " fond starting at position " << i << " and ending at position " << (i + j) << endl;
+				cout << word << " found starting at position " << i << " and ending at position " << (i + j) << endl;
 			}
 		}
 	}
